@@ -1,0 +1,31 @@
+/** {*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*    box-sizing: border-box;*/
+/*}*/
+
+body {
+    background-color: rgb(25,25,25);
+}
+
+h2 {
+    color: white;
+}
+
+.rps-img {
+    width: 70px;
+    height: 70px;
+    padding: 20px;
+}
+
+.rps-but-sty {
+    background-color: transparent;
+    border: 3px solid #fff;
+    margin-right: 7px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.color-white {
+    color: #fff;
+}
